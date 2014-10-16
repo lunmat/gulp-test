@@ -1,0 +1,14 @@
+{
+  "name": "gulp-test",
+  "description": "A project to test Gulp",
+  "version": "0.0.1",
+  "author": "Mats Lundström",
+  "homepage": "https://github.com/lunmat/gulp-test",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lunmat/gulp-test.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.8"
+  }
+}
