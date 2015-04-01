@@ -9,6 +9,8 @@
     "url": "https://github.com/lunmat/gulp-test.git"
   },
   "devDependencies": {
-    "gulp": "^3.8.8"
+    "gulp": "^3.8.11",
+    "gulp-jshint": "^1.9.4",
+    "jshint-stylish": "^1.0.1"
   }
 }
